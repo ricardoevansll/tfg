@@ -1,0 +1,484 @@
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style31
+	{background:#735773;
+	mso-pattern:black none;
+	border:1.5pt solid white;
+	mso-protection:locked visible;
+	mso-style-name:"% completado";}
+.style17
+	{mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	white-space:normal;
+	mso-rotate:0;
+	color:#404040;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Corbel, sans-serif;
+	mso-font-charset:0;
+	mso-style-name:Actividad;}
+.style22
+	{text-align:left;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	background:#F7DEB9;
+	mso-pattern:black none;
+	color:#404040;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid #D1881B;
+	border-right:none;
+	border-bottom:.5pt solid #D1881B;
+	border-left:none;
+	mso-style-name:"Control del periodo resaltado";}
+.style16
+	{color:#735773;
+	font-size:42.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Corbel, sans-serif;
+	mso-font-charset:0;
+	mso-style-name:"Encabezado 1";
+	mso-style-id:16;}
+.style26
+	{mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#595959;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border:none;
+	mso-style-name:"Encabezado 4";
+	mso-style-id:19;}
+.style18
+	{mso-number-format:"\#\,\#\#0";
+	text-align:center;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#595959;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #735773;
+	border-left:none;
+	mso-style-name:"Encabezados de los periodos";}
+.style19
+	{mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	white-space:normal;
+	mso-rotate:0;
+	color:#595959;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-style-name:"Encabezados del proyecto";}
+.style20
+	{text-align:left;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#404040;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-style-name:Etiqueta;}
+.style30
+	{background:#CAB9CA;
+	mso-pattern:#735773 thin-diag-stripe;
+	border:1.5pt solid white;
+	mso-protection:locked visible;
+	mso-style-name:"Leyenda de la duración real";}
+.style32
+	{background:#F7DEB9;
+	mso-pattern:#735773 thin-diag-stripe;
+	border:1.5pt solid white;
+	mso-protection:locked visible;
+	mso-style-name:"Leyenda de la duración real \(fuera del plan\)";}
+.style33
+	{background:#E9AB51;
+	mso-pattern:black none;
+	border:1.5pt solid white;
+	mso-protection:locked visible;
+	mso-style-name:"Leyenda del % completado \(fuera del plan\)";}
+.style29
+	{mso-background-source:auto;
+	mso-pattern:#735773 thin-diag-stripe;
+	border-top:.5pt solid white;
+	border-right:1.5pt solid white;
+	border-bottom:1.5pt solid white;
+	border-left:1.5pt solid white;
+	mso-protection:locked visible;
+	mso-style-name:"Leyenda del plan";}
+.style0
+	{text-align:center;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#404040;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Corbel, sans-serif;
+	mso-font-charset:0;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+.style21
+	{mso-number-format:0%;
+	text-align:center;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#735773;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Corbel, sans-serif;
+	mso-font-charset:0;
+	mso-style-name:"Porcentaje completado";}
+.style27
+	{text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#735773;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-style-name:"Texto explicativo";
+	mso-style-id:53;}
+.style23
+	{text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#735773;
+	font-size:42.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Corbel, sans-serif;
+	mso-font-charset:0;
+	mso-style-name:Título;
+	mso-style-id:15;}
+.style24
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#595959;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border:none;
+	mso-style-name:"Título 2";
+	mso-style-id:17;}
+.style25
+	{mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	white-space:normal;
+	mso-rotate:0;
+	color:#595959;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border:none;
+	mso-style-name:"Título 3";
+	mso-style-id:18;}
+.style28
+	{mso-number-format:0;
+	text-align:center;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	background:#F7DEB9;
+	mso-pattern:black none;
+	color:#404040;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Corbel, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid #D1881B;
+	border-right:none;
+	border-bottom:.5pt solid #D1881B;
+	border-left:none;
+	mso-protection:locked visible;
+	mso-style-name:"Valor del periodo";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#404040;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Corbel, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl77
+	{mso-style-parent:style0;
+	vertical-align:bottom;}
+.xl78
+	{mso-style-parent:style18;
+	color:#595959;
+	font-weight:700;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0";
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #735773;
+	border-left:none;}
+.xl79
+	{mso-style-parent:style22;
+	font-weight:700;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	border-top:.5pt solid #D1881B;
+	border-right:none;
+	border-bottom:.5pt solid #D1881B;
+	border-left:none;
+	background:#F7DEB9;
+	mso-pattern:black none;}
+.xl80
+	{mso-style-parent:style21;
+	color:#735773;
+	font-size:13.0pt;
+	font-weight:700;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:0%;}
+.xl81
+	{mso-style-parent:style19;
+	color:#595959;
+	font-weight:700;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	vertical-align:bottom;
+	white-space:normal;}
+.xl82
+	{mso-style-parent:style0;
+	vertical-align:bottom;
+	white-space:normal;}
+.xl83
+	{mso-style-parent:style0;
+	text-align:general;
+	white-space:normal;}
+.xl84
+	{mso-style-parent:style16;
+	color:#735773;
+	font-size:42.0pt;
+	font-weight:700;
+	vertical-align:bottom;}
+.xl85
+	{mso-style-parent:style28;
+	font-size:12.0pt;
+	mso-number-format:0;
+	border-top:.5pt solid #D1881B;
+	border-right:none;
+	border-bottom:.5pt solid #D1881B;
+	border-left:none;
+	background:#F7DEB9;
+	mso-pattern:black none;}
+.xl86
+	{mso-style-parent:style29;
+	vertical-align:bottom;
+	border-top:.5pt solid white;
+	border-right:1.5pt solid white;
+	border-bottom:1.5pt solid white;
+	border-left:1.5pt solid white;
+	mso-background-source:auto;
+	mso-pattern:#735773 thin-diag-stripe;}
+.xl87
+	{mso-style-parent:style30;
+	vertical-align:bottom;
+	border:1.5pt solid white;
+	background:#CAB9CA;
+	mso-pattern:#735773 thin-diag-stripe;}
+.xl88
+	{mso-style-parent:style31;
+	vertical-align:bottom;
+	border:1.5pt solid white;
+	background:#735773;
+	mso-pattern:black none;}
+.xl89
+	{mso-style-parent:style32;
+	vertical-align:bottom;
+	border:1.5pt solid white;
+	background:#F7DEB9;
+	mso-pattern:#735773 thin-diag-stripe;}
+.xl90
+	{mso-style-parent:style33;
+	vertical-align:bottom;
+	border:1.5pt solid white;
+	background:#E9AB51;
+	mso-pattern:black none;}
+.xl91
+	{mso-style-parent:style26;
+	color:#595959;
+	font-weight:700;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	vertical-align:bottom;}
+.xl92
+	{mso-style-parent:style17;
+	font-size:13.0pt;
+	font-weight:700;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	text-align:left;
+	white-space:normal;}
+.xl93
+	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.xl94
+	{mso-style-parent:style23;
+	color:#735773;
+	font-size:20.0pt;
+	font-weight:700;
+	text-align:general;}
+.xl95
+	{mso-style-parent:style20;
+	font-size:12.0pt;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.5pt solid white;}
+.xl96
+	{mso-style-parent:style20;
+	font-size:12.0pt;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:left;}
+.xl97
+	{mso-style-parent:style25;
+	color:#595959;
+	font-weight:700;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border-top:.5pt solid #D1881B;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	white-space:normal;}
+.xl98
+	{mso-style-parent:style25;
+	color:#595959;
+	font-weight:700;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #735773;
+	border-left:none;
+	white-space:normal;}
+.xl99
+	{mso-style-parent:style20;
+	font-size:12.0pt;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	border-top:none;
+	border-right:1.5pt solid white;
+	border-bottom:none;
+	border-left:none;}
+.xl100
+	{mso-style-parent:style27;
+	color:#735773;
+	font-style:italic;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:general;}
+.xl101
+	{mso-style-parent:style24;
+	color:#595959;
+	font-weight:700;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:general;}
+.xl102
+	{mso-style-parent:style24;
+	color:#595959;
+	font-weight:700;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:general;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid #735773;
+	border-left:none;}
+.xl103
+	{mso-style-parent:style25;
+	color:#595959;
+	font-weight:700;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	white-space:normal;}
